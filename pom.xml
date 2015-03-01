@@ -10,6 +10,8 @@
         <module>JAX-WS-BASIC-AUTH-TEST</module>
         <module>WLS-AUTHENTICATION-USER</module>
         <module>WlsAuthenticationTest</module>
+    <module>SESSION-MANAGEMENT</module>
+        <module>SESSION-MANAGEMENT-CLIENT</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
